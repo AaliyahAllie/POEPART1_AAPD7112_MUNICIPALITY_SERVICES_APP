@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POEPART1_AAPD7112_MUNICIPALITY_SERVICES_APP", "POEPART1_AAPD7112_MUNICIPALITY_SERVICES_APP\POEPART1_AAPD7112_MUNICIPALITY_SERVICES_APP.csproj", "{A43F0AB1-1D7D-4C92-983E-CF8356285E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43F0AB1-1D7D-4C92-983E-CF8356285E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43F0AB1-1D7D-4C92-983E-CF8356285E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43F0AB1-1D7D-4C92-983E-CF8356285E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43F0AB1-1D7D-4C92-983E-CF8356285E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFF8163-C974-41C4-B93B-D5F81F17B4D1}
+	EndGlobalSection
+EndGlobal
